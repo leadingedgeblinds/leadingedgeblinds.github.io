@@ -11,8 +11,8 @@ scroll_top_btn:
 hero:
   title: "Creative. Smart. Awesome."
   subtitle: "We are an award winning web & mobile design agency that strongly believes in the power of creative ideas."
-  image: /assets/img/illustrations/i8.png
-  image2x: /assets/img/illustrations/i8@2x.png 2x
+  image: /assets/img/illustrations/i8.webp
+  image2x: /assets/img/illustrations/i8@2x.webp 2x
 
 # Services Section
 services:
@@ -54,8 +54,8 @@ services:
 process:
   title: "Everything you need on creating a business process."
   subtitle: "How It Works?"
-  image: /assets/img/illustrations/i3.png
-  image2x: /assets/img/illustrations/i3@2x.png 2x
+  image: /assets/img/illustrations/i3.webp
+  image2x: /assets/img/illustrations/i3@2x.webp 2x
   steps:
     - icon: light-bulb
       iconColor: "text-blue"
@@ -74,8 +74,8 @@ process:
 whychoose:
   title: "A few reasons why our valued customers choose us."
   subtitle: "Why Choose Us?"
-  image: /assets/img/illustrations/i2.png
-  image2x: /assets/img/illustrations/i2@2x.png 2x
+  image: /assets/img/illustrations/i2.webp
+  image2x: /assets/img/illustrations/i2@2x.webp 2x
   accordion:
     - title: "Professional Design"
       text: "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel."
@@ -100,26 +100,26 @@ team:
 testimonials:
   title: "Got any questions? Don't hesitate to get in touch."
   subtitle: "Get In Touch"
-  image: /assets/img/illustrations/i4.png
-  image2x: /assets/img/illustrations/i4@2x.png 2x
+  image: /assets/img/illustrations/i4.webp
+  image2x: /assets/img/illustrations/i4@2x.webp 2x
   
 
 # Clients Section
 clients:
   brands:
-    - image: /assets/img/brands/c1.png
-    - image: /assets/img/brands/c2.png
-    - image: /assets/img/brands/c3.png
-    - image: /assets/img/brands/c4.png
-    - image: /assets/img/brands/c5.png
-    - image: /assets/img/brands/c6.png
+    - image: /assets/img/brands/c1.webp
+    - image: /assets/img/brands/c2.webp
+    - image: /assets/img/brands/c3.webp
+    - image: /assets/img/brands/c4.webp
+    - image: /assets/img/brands/c5.webp
+    - image: /assets/img/brands/c6.webp
 
 # Contact Section
 contact:
   title: "Got any questions? Don't hesitate to get in touch."
   subtitle: "Get In Touch"
-  image: /assets/img/illustrations/i5.png
-  image2x: /assets/img/illustrations/i5@2x.png 2x
+  image: /assets/img/illustrations/i5.webp
+  image2x: /assets/img/illustrations/i5@2x.webp 2x
   info:
     - icon: "uil-location-pin-alt"
       title: "Address"

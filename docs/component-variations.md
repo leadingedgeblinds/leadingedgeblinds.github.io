@@ -136,7 +136,7 @@ toc: true
     background_class="bg-soft-primary"
     title="About Us"
     subtitle="A company turning ideas into beautiful things."
-    figure_image="/assets/img/photos/bg12.jpg"
+    figure_image="/assets/img/photos/bg12.webp"
 %}{% endraw %}</code></pre>
           </div>
         </div>
@@ -158,7 +158,7 @@ toc: true
           <div class="code-wrapper-inner">
 <pre class="language-liquid"><code>{% raw %}{% include components/header/header-post.html 
     background_class="image-wrapper bg-image bg-overlay text-white"
-    background_image="/assets/img/photos/bg5.jpg"
+    background_image="/assets/img/photos/bg5.webp"
     category="Teamwork"
     title="Commodo Dolor Bibendum"
     meta_date="5 Jul 2022"
@@ -205,7 +205,7 @@ cta: true
 background_class: "bg-soft-primary"
 title: "Page Title"
 subtitle: "Page subtitle"
-figure_image: "/path/to/image.jpg"</code></pre>
+figure_image: "/path/to/image.webp"</code></pre>
           </div>
         </div>
       </div>

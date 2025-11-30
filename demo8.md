@@ -18,8 +18,8 @@ hero:
     - label: Contact Us
       url: "#"
       class: btn btn-lg btn-outline-primary rounded-pill
-  image: /assets/img/photos/co3.png
-  image2x: /assets/img/photos/co3@2x.png
+  image: /assets/img/photos/co3.webp
+  image2x: /assets/img/photos/co3@2x.webp
   happy_clients:
     enable: true
     count: 25000+
@@ -35,8 +35,8 @@ about:
   title: Who Are We?
   subtitle: We are a digital and branding company that believes in the power of creative strategy and along with great design.
   text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-  image: /assets/img/photos/about10.jpg
-  image2x: /assets/img/photos/about10@2x.jpg
+  image: /assets/img/photos/about10.webp
+  image2x: /assets/img/photos/about10@2x.webp
   features:
     - icon: /assets/img/icons/lineal/target.svg
       title: Our Mission
@@ -49,8 +49,8 @@ about:
 services:
   title: What We Do?
   subtitle: The full service we are offering is specifically designed to meet your business needs and projects.
-  image: /assets/img/photos/about11.jpg
-  image2x: /assets/img/photos/about11@2x.jpg
+  image: /assets/img/photos/about11.webp
+  image2x: /assets/img/photos/about11@2x.webp
   service_items:
     - icon: /assets/img/icons/lineal/megaphone.svg
       title: Marketing
@@ -88,8 +88,8 @@ video:
   title: Sandbox Brings Awesomeness
   subtitle: We have considered our solutions to support every stage of your growth.
   video_url: /assets/media/movie.mp4
-  image: /assets/img/photos/about12.jpg
-  image2x: /assets/img/photos/about12@2x.jpg
+  image: /assets/img/photos/about12.webp
+  image2x: /assets/img/photos/about12@2x.webp
   skills:
     - title: Marketing
       percentage: 100

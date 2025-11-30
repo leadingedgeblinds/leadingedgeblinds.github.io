@@ -10,7 +10,7 @@ scroll_top_btn:
 # Header / Hero Section
 hero:
   title: "Sign In"
-  bg_image: "/assets/img/photos/bg18.png"
+  bg_image: "/assets/img/photos/bg18.webp"
   bg_overlay: "bg-overlay-light-600"
   breadcrumb:
     - label: "Home"

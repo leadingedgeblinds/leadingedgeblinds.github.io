@@ -122,14 +122,14 @@ sass:
         <div class="code-wrapper">
           <div class="code-wrapper-inner">
 <pre class="language-bash"><code># Convert single image
-magick convert input.jpg -quality 90 output.webp
+magick convert input.webp -quality 90 output.webp
 
 # Batch convert (PowerShell)
-Get-ChildItem -Path "assets/img" -Recurse -Include *.jpg,*.png | 
+Get-ChildItem -Path "assets/img" -Recurse -Include *.webp,*.webp | 
 ForEach-Object { magick convert $_.FullName -quality 90 "$($_.DirectoryName)\$($_.BaseName).webp" }
 
 # Batch convert (Bash/Linux)
-find assets/img -type f \( -iname "*.jpg" -o -iname "*.png" \) -exec convert {} -quality 90 {}.webp \;</code></pre>
+find assets/img -type f \( -iname "*.webp" -o -iname "*.webp" \) -exec convert {} -quality 90 {}.webp \;</code></pre>
           </div>
         </div>
       </div>
@@ -212,7 +212,7 @@ echo "Building site for production..."
 JEKYLL_ENV=production bundle exec jekyll build
 
 echo "Processing images..."
-find assets/img -type f \( -iname "*.jpg" -o -iname "*.png" \) -exec convert {} -quality 90 {}.webp \;</code></pre>
+find assets/img -type f \( -iname "*.webp" -o -iname "*.webp" \) -exec convert {} -quality 90 {}.webp \;</code></pre>
           </div>
         </div>
       </div>

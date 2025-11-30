@@ -11,7 +11,7 @@ scroll_top_btn:
 hero:
   title: "Sign Up"
   subtitle: ""
-  bg_image: "/assets/img/photos/bg18.png"
+  bg_image: "/assets/img/photos/bg18.webp"
   bg_overlay: "bg-overlay-light-600"
   breadcrumb:
     - label: "Home"

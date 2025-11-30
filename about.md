@@ -11,7 +11,7 @@ scroll_top_btn:
 hero:
   title: "Hello! This is Sandbox"
   subtitle: "A company turning ideas into beautiful things."
-  bg_image: /assets/img/photos/bg12.jpg
+  bg_image: /assets/img/photos/bg12.webp
   bg_color: "bg-gray"
 
 # Who We Are Section
@@ -26,10 +26,10 @@ who_we_are:
     - "Etiam porta sem malesuada magna mollis euismod."
     - "Fermentum massa vivamus faucibus amet euismod."
   images:
-    - src: /assets/img/photos/about2.jpg
-      src2x: /assets/img/photos/about2@2x.jpg
-    - src: /assets/img/photos/about3.jpg
-      src2x: /assets/img/photos/about3@2x.jpg
+    - src: /assets/img/photos/about2.webp
+      src2x: /assets/img/photos/about2@2x.webp
+    - src: /assets/img/photos/about3.webp
+      src2x: /assets/img/photos/about3@2x.webp
 
 # How It Works Section
 how_it_works:
@@ -53,8 +53,8 @@ how_it_works:
 # Testimonials Section
 testimonials:
   bg_color: "bg-soft-primary"
-  image: /assets/img/photos/co1.png
-  image2x: /assets/img/photos/co1@2x.png
+  image: /assets/img/photos/co1.webp
+  image2x: /assets/img/photos/co1@2x.webp
   
 # Team Section
 team:
@@ -83,15 +83,15 @@ stats:
 contact:
   title: "Convinced yet? Let's make something great together."
   icon: "telemarketer"
-  image: /assets/img/photos/about4.jpg
-  image2x: /assets/img/photos/about4@2x.jpg
+  image: /assets/img/photos/about4.webp
+  image2x: /assets/img/photos/about4@2x.webp
   info:
     - icon: "location-pin-alt"
       title: "Address"
-      text: "Moonshine St. 14/05 Light City, London, United Kingdom"
+      text: "Melbourne, Australia"
     - icon: "phone-volume"
       title: "Phone"
-      text: "00 (123) 456 78 90"
+      text: "0418  456 78 90"
     - icon: "envelope"
       title: "E-mail"
       text: "sandbox@email.com"

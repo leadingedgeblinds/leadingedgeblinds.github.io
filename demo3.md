@@ -18,8 +18,8 @@ hero:
       url: "#"
       class: btn-lg btn-primary rounded
   video_url: /assets/media/movie.mp4
-  image: /assets/img/photos/about13.jpg
-  image2x: /assets/img/photos/about13@2x.jpg
+  image: /assets/img/photos/about13.webp
+  image2x: /assets/img/photos/about13@2x.webp
 # Services Section
 services:
   title: The service we offer is specifically designed to meet your needs.
@@ -59,14 +59,14 @@ how_it_works:
     - number: 3
       title: Finalize Product
       text: Cras mattis consectetur purus sit amet. Aenean lacinia bibendum nulla sed.
-  image: /assets/img/photos/about7.jpg
-  image2x: /assets/img/photos/about7@2x.jpg
+  image: /assets/img/photos/about7.webp
+  image2x: /assets/img/photos/about7@2x.webp
 # Why Choose Us Section
 why_us:
   title: Why Choose Us?
   subtitle: A few reasons why our valued customers choose us.
-  image: /assets/img/photos/about9.jpg
-  image2x: /assets/img/photos/about9@2x.jpg
+  image: /assets/img/photos/about9.webp
+  image2x: /assets/img/photos/about9@2x.webp
   accordion_items:
     - title: Professional Design
       content: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
@@ -79,7 +79,7 @@ why_us:
       show: false
 # Join Community Section
 join_us:
-  bg_image: /assets/img/photos/bg1.jpg
+  bg_image: /assets/img/photos/bg1.webp
   title: Join Our Community
   subtitle: We are trusted by over 5000+ clients. Join them by using our services and grow your business.
   button_text: Join Us
@@ -103,7 +103,7 @@ company_facts:
       label: Awards Won
 # Testimonials Section
 testimonials:
-  image: /assets/img/photos/tm1.jpg
+  image: /assets/img/photos/tm1.webp
 # Pricing Section
 pricing:
   title: We offer great and premium prices.
@@ -150,8 +150,8 @@ pricing:
 contact:
   title: Convinced yet? Let's make something great together.
   subtitle: Get In Touch
-  image: /assets/img/photos/about14.jpg
-  image2x: /assets/img/photos/about14@2x.jpg
+  image: /assets/img/photos/about14.webp
+  image2x: /assets/img/photos/about14@2x.webp
   address: 
     title: Address
   phone:

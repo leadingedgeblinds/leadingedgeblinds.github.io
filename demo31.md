@@ -18,8 +18,8 @@ hero:
     label: "See Projects"
     url: "#"
     class: "btn btn-lg btn-primary rounded mb-10 mb-xxl-5"
-  image: "/assets/img/illustrations/i28.png"
-  image2x: "/assets/img/illustrations/i28@2x.png"
+  image: "/assets/img/illustrations/i28.webp"
+  image2x: "/assets/img/illustrations/i28@2x.webp"
   divider: true
   divider_color: "text-soft-primary"
 
@@ -36,8 +36,8 @@ services:
   main_title: "The service we offer is <span class=\"underline-3 style-1 primary\"><em>designed</em></span> to meet your business needs."
   main_title_class: "display-2 ls-sm px-xxl-10"
   service_items:
-    - image: "/assets/img/illustrations/i29.png"
-      image2x: "/assets/img/illustrations/i29@2x.png"
+    - image: "/assets/img/illustrations/i29.webp"
+      image2x: "/assets/img/illustrations/i29@2x.webp"
       icon: "/assets/img/icons/solid/like.svg"
       icon_class: "bg-pale-primary"
       icon_text_class: "text-primary"
@@ -51,8 +51,8 @@ services:
         label: "Learn More"
         url: "#"
         class: "more hover link-primary"
-    - image: "/assets/img/illustrations/i30.png"
-      image2x: "/assets/img/illustrations/i30@2x.png"
+    - image: "/assets/img/illustrations/i30.webp"
+      image2x: "/assets/img/illustrations/i30@2x.webp"
       icon: "/assets/img/icons/solid/layout-2.svg"
       icon_class: "bg-pale-green"
       icon_text_class: "text-green"
@@ -67,8 +67,8 @@ services:
         url: "#"
         class: "more hover link-green"
       reverse: true
-    - image: "/assets/img/illustrations/i31.png"
-      image2x: "/assets/img/illustrations/i31@2x.png"
+    - image: "/assets/img/illustrations/i31.webp"
+      image2x: "/assets/img/illustrations/i31@2x.webp"
       icon: "/assets/img/icons/solid/bullhorn.svg"
       icon_class: "bg-pale-fuchsia"
       icon_text_class: "text-fuchsia"
@@ -90,8 +90,8 @@ testimonials:
   title_class: "fs-16 text-uppercase text-muted mb-3"
   main_title: "Don't take our word for it. See what our <span class=\"underline-3 style-1 primary\"><em>customers</em></span> are saying about us."
   main_title_class: "display-2 ls-sm mb-10 px-xxl-10"
-  image: "/assets/img/photos/about13.jpg"
-  image2x: "/assets/img/photos/about13@2x.jpg"
+  image: "/assets/img/photos/about13.webp"
+  image2x: "/assets/img/photos/about13@2x.webp"
   
 
 # Projects Section
@@ -115,8 +115,8 @@ join_community:
       text: "Happy Customers"
     - count: "4x"
       text: "Revenue Growth"
-  image: "/assets/img/illustrations/i32.png"
-  image2x: "/assets/img/illustrations/i32@2x.png"
+  image: "/assets/img/illustrations/i32.webp"
+  image2x: "/assets/img/illustrations/i32@2x.webp"
   divider: true
   divider_color: "text-soft-primary"
 

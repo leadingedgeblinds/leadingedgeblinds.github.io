@@ -9,7 +9,7 @@ scroll_top_btn:
 # Hero Section
 hero:
   slides:
-    - background: /assets/img/photos/bg7.jpg
+    - background: /assets/img/photos/bg7.webp
       title: We bring solutions to make life easier.
       subtitle: We are a creative company that focuses on long term relationships with customers.
       button:
@@ -18,13 +18,13 @@ hero:
         class: btn btn-lg btn-outline-white rounded-pill
       position: left
       animation: true
-    - background: /assets/img/photos/bg8.jpg
+    - background: /assets/img/photos/bg8.webp
       title: We are trusted by over a million customers.
       subtitle: Here a few reasons why our customers choose us.
       video_url: /assets/media/movie.mp4
       position: center
       animation: true
-    - background: /assets/img/photos/bg9.jpg
+    - background: /assets/img/photos/bg9.webp
       title: Just sit and relax.
       subtitle: We make sure your spending is stress free so that you can have the perfect control.
       button:
@@ -46,10 +46,10 @@ about:
     - text: Etiam porta sem malesuada magna mollis euismod.
     - text: Fermentum massa vivamus faucibus amet euismod.
   images:
-    - image: /assets/img/photos/about2.jpg
-      image2x: /assets/img/photos/about2@2x.jpg
-    - image: /assets/img/photos/about3.jpg
-      image2x: /assets/img/photos/about3@2x.jpg
+    - image: /assets/img/photos/about2.webp
+      image2x: /assets/img/photos/about2@2x.webp
+    - image: /assets/img/photos/about3.webp
+      image2x: /assets/img/photos/about3@2x.webp
 
 # Working Steps Section
 working_steps:
@@ -77,8 +77,8 @@ working_steps:
 
 # Testimonials Section
 testimonials:
-  image: /assets/img/photos/co1.png
-  image2x: /assets/img/photos/co1@2x.png
+  image: /assets/img/photos/co1.webp
+  image2x: /assets/img/photos/co1@2x.webp
   
 
 # Team Section
@@ -106,8 +106,8 @@ stats:
 contact:
   title: Convinced yet? Let's make something great together.
   icon: /assets/img/icons/lineal/telemarketer.svg
-  image: /assets/img/photos/about4.jpg
-  image2x: /assets/img/photos/about4@2x.jpg
+  image: /assets/img/photos/about4.webp
+  image2x: /assets/img/photos/about4@2x.webp
   contact_info:
     - icon: uil uil-location-pin-alt
       title: Address

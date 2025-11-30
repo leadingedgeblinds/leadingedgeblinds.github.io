@@ -113,15 +113,15 @@ toc: true
                 <p class="mb-5">To reach the collection of all images/videos from Pexels used in Sandbox, click <a href="https://www.pexels.com/collections/sandbox-gbw1t9c/" class="external" target="_blank">here</a>.</p>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/man-in-blue-collared-top-using-imac-indoors-3182782/" target="_blank"><img src="@@webRoot/assets/img/docs/pex1.jpg" srcset="@@webRoot/assets/img/docs/pex1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/man-in-blue-collared-top-using-imac-indoors-3182782/" target="_blank"><img src="@@webRoot/assets/img/docs/pex1.webp" srcset="@@webRoot/assets/img/docs/pex1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/photo-of-people-using-laptop-s-3182759/" target="_blank"><img src="@@webRoot/assets/img/docs/pex2.jpg" srcset="@@webRoot/assets/img/docs/pex2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/photo-of-people-using-laptop-s-3182759/" target="_blank"><img src="@@webRoot/assets/img/docs/pex2.webp" srcset="@@webRoot/assets/img/docs/pex2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/group-of-people-sitting-indoors-3184314/" target="_blank"><img src="@@webRoot/assets/img/docs/pex3.jpg" srcset="@@webRoot/assets/img/docs/pex3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pexels.com/photo/group-of-people-sitting-indoors-3184314/" target="_blank"><img src="@@webRoot/assets/img/docs/pex3.webp" srcset="@@webRoot/assets/img/docs/pex3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
@@ -131,15 +131,15 @@ toc: true
                 <p class="mb-5">To reach the collection of all images from Rawpixel used in Sandbox, click <a href="https://www.rawpixel.com/community-board/1391692/sandbox?sort=last_added&mode=shop&page=1" class="external" target="_blank">here</a>.</p>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56901/premium-photo-image-african-descent-analysing-analysis" target="_blank"><img src="@@webRoot/assets/img/docs/raw1.jpg" srcset="@@webRoot/assets/img/docs/raw1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56901/premium-photo-image-african-descent-analysing-analysis" target="_blank"><img src="@@webRoot/assets/img/docs/raw1.webp" srcset="@@webRoot/assets/img/docs/raw1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56894/premium-photo-image-african-descent-analysis-brainstorming" target="_blank"><img src="@@webRoot/assets/img/docs/raw2.jpg" srcset="@@webRoot/assets/img/docs/raw2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56894/premium-photo-image-african-descent-analysis-brainstorming" target="_blank"><img src="@@webRoot/assets/img/docs/raw2.webp" srcset="@@webRoot/assets/img/docs/raw2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56966/premium-photo-image-african-descent-analysing-analysis" target="_blank"><img src="@@webRoot/assets/img/docs/raw3.jpg" srcset="@@webRoot/assets/img/docs/raw3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.rawpixel.com/image/56966/premium-photo-image-african-descent-analysing-analysis" target="_blank"><img src="@@webRoot/assets/img/docs/raw3.webp" srcset="@@webRoot/assets/img/docs/raw3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
@@ -149,15 +149,15 @@ toc: true
                 <p class="mb-5">To reach the collection of all images from Unsplash used in Sandbox, click <a href="https://unsplash.com/collections/vn4OtMorwCA/sandbox" class="external" target="_blank">here</a>.</p>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://unsplash.com/photos/DMl5gG0yWWY" target="_blank"><img src="@@webRoot/assets/img/docs/un1.jpg" srcset="@@webRoot/assets/img/docs/un1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://unsplash.com/photos/DMl5gG0yWWY" target="_blank"><img src="@@webRoot/assets/img/docs/un1.webp" srcset="@@webRoot/assets/img/docs/un1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://unsplash.com/photos/Ecnx13MEPK0" target="_blank"><img src="@@webRoot/assets/img/docs/un2.jpg" srcset="@@webRoot/assets/img/docs/un2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://unsplash.com/photos/Ecnx13MEPK0" target="_blank"><img src="@@webRoot/assets/img/docs/un2.webp" srcset="@@webRoot/assets/img/docs/un2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://unsplash.com/photos/_-E_2D-wgjg" target="_blank"><img src="@@webRoot/assets/img/docs/un3.jpg" srcset="@@webRoot/assets/img/docs/un3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://unsplash.com/photos/_-E_2D-wgjg" target="_blank"><img src="@@webRoot/assets/img/docs/un3.webp" srcset="@@webRoot/assets/img/docs/un3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
@@ -167,15 +167,15 @@ toc: true
                 <p class="mb-5">To reach the Freepik collection first make sure you are logged into Freepik, then click <a href="https://www.freepik.com/user/collections/sandbox/2260699" class="external" target="_blank">here</a>.</p>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/community-young-people-posing-together_6981911.htm#&position=0&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre1.jpg" srcset="@@webRoot/assets/img/docs/fre1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/community-young-people-posing-together_6981911.htm#&position=0&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre1.webp" srcset="@@webRoot/assets/img/docs/fre1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/group-positive-young-people-working-together_6981914.htm#&position=3&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre2.jpg" srcset="@@webRoot/assets/img/docs/fre2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/group-positive-young-people-working-together_6981914.htm#&position=3&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre2.webp" srcset="@@webRoot/assets/img/docs/fre2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/community-young-people-happy-together_6981806.htm#&position=7&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre3.jpg" srcset="@@webRoot/assets/img/docs/fre3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/free-photo/community-young-people-happy-together_6981806.htm#&position=7&from_view=collections" target="_blank"><img src="@@webRoot/assets/img/docs/fre3.webp" srcset="@@webRoot/assets/img/docs/fre3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
@@ -184,120 +184,120 @@ toc: true
                 <h3 class="mb-5">Pixeden</h3>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-invitation-card-paper-wrap" target="_blank"><img src="@@webRoot/assets/img/docs/pix1.jpg" srcset="@@webRoot/assets/img/docs/pix1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-invitation-card-paper-wrap" target="_blank"><img src="@@webRoot/assets/img/docs/pix1.webp" srcset="@@webRoot/assets/img/docs/pix1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-notebook-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/pix2.jpg" srcset="@@webRoot/assets/img/docs/pix2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-notebook-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/pix2.webp" srcset="@@webRoot/assets/img/docs/pix2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-paper-bag-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/pix3.jpg" srcset="@@webRoot/assets/img/docs/pix3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-paper-bag-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/pix3.webp" srcset="@@webRoot/assets/img/docs/pix3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
                 <!--/.row -->
                 <p class="mb-0">
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-macarons-box-packaging-mockup" class="external" target="_blank">se3.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/product-psd-stationery-mockup-set" class="external" target="_blank">se4.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-paper-bag-mockup-set" class="external" target="_blank">pd1.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/elegant-psd-invitation-mockup" class="external" target="_blank">pd2.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/basic-mailing-stationery-mockup" class="external" target="_blank">pd3.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/small-psd-square-box-mockup-set" class="external" target="_blank">pd4.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-polaroid-photos-mockup" class="external" target="_blank">pd5.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/hardcover-psd-book-mockup-scene" class="external" target="_blank">pd6.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-stationery-office-pack-mockup" class="external" target="_blank">pp1.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/simple-stationery-branding-vol3" class="external" target="_blank">pp7.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/mini-envelope-psd-mockup" class="external" target="_blank">pp8.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/stationery-branding-mock-up-vol-5-1" class="external" target="_blank">pp9.jpg</a>
-                  <a href="https://www.pixeden.com/psd-web-elements/abstract-ui-project-scene-mockup" class="external" target="_blank">se1.jpg</a>
-                  <a href="https://www.pixeden.com/psd-web-elements/abstract-ui-project-scene-mockup-2" class="external" target="_blank">se2.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-invitation-card-paper-wrap" class="external" target="_blank">rp1.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/stationery-psd-pocket-notebook-mockup" class="external" target="_blank">rp2.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-notebook-mockup-set" class="external" target="_blank">rp3.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-clipboard-stationery-mockup" class="external" target="_blank">pd7.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-magazine-mockup-vol8" class="external" target="_blank">pd8.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-cardboard-box-mockup-2" class="external" target="_blank">pd9.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/basic-stationery-branding-vol-5" class="external" target="_blank">pd10.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-cardboard-packaging-mockup" class="external" target="_blank">pd11.jpg</a>
-                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-shopping-bag-mockup" class="external" target="_blank">pd12.jpg</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-macarons-box-packaging-mockup" class="external" target="_blank">se3.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/product-psd-stationery-mockup-set" class="external" target="_blank">se4.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-paper-bag-mockup-set" class="external" target="_blank">pd1.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/elegant-psd-invitation-mockup" class="external" target="_blank">pd2.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/basic-mailing-stationery-mockup" class="external" target="_blank">pd3.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/small-psd-square-box-mockup-set" class="external" target="_blank">pd4.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-polaroid-photos-mockup" class="external" target="_blank">pd5.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/hardcover-psd-book-mockup-scene" class="external" target="_blank">pd6.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-stationery-office-pack-mockup" class="external" target="_blank">pp1.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/simple-stationery-branding-vol3" class="external" target="_blank">pp7.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/mini-envelope-psd-mockup" class="external" target="_blank">pp8.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/stationery-branding-mock-up-vol-5-1" class="external" target="_blank">pp9.webp</a>
+                  <a href="https://www.pixeden.com/psd-web-elements/abstract-ui-project-scene-mockup" class="external" target="_blank">se1.webp</a>
+                  <a href="https://www.pixeden.com/psd-web-elements/abstract-ui-project-scene-mockup-2" class="external" target="_blank">se2.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-invitation-card-paper-wrap" class="external" target="_blank">rp1.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/stationery-psd-pocket-notebook-mockup" class="external" target="_blank">rp2.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-notebook-mockup-set" class="external" target="_blank">rp3.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-clipboard-stationery-mockup" class="external" target="_blank">pd7.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-magazine-mockup-vol8" class="external" target="_blank">pd8.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/square-psd-cardboard-box-mockup-2" class="external" target="_blank">pd9.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/basic-stationery-branding-vol-5" class="external" target="_blank">pd10.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-cardboard-packaging-mockup" class="external" target="_blank">pd11.webp</a>
+                  <a href="https://www.pixeden.com/psd-mock-up-templates/psd-shopping-bag-mockup" class="external" target="_blank">pd12.webp</a>
                 </p>
                 <hr class="mt-11 mb-10" />
                 <h3 class="mb-5">Icons8</h3>
                 <div class="row gy-6 mb-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/minute-on-the-lips-lifetime-on-the-hips--5aba7cf88b65880001a035b9" target="_blank"><img src="@@webRoot/assets/img/docs/ico1.jpg" srcset="@@webRoot/assets/img/docs/ico1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/minute-on-the-lips-lifetime-on-the-hips--5aba7cf88b65880001a035b9" target="_blank"><img src="@@webRoot/assets/img/docs/ico1.webp" srcset="@@webRoot/assets/img/docs/ico1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/some-eggs-brown-bread-and-butter--59d8d7cb0b7a6a03ae47271d" target="_blank"><img src="@@webRoot/assets/img/docs/ico2.jpg" srcset="@@webRoot/assets/img/docs/ico2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/some-eggs-brown-bread-and-butter--59d8d7cb0b7a6a03ae47271d" target="_blank"><img src="@@webRoot/assets/img/docs/ico2.webp" srcset="@@webRoot/assets/img/docs/ico2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d388b65880001a035ce" target="_blank"><img src="@@webRoot/assets/img/docs/ico3.jpg" srcset="@@webRoot/assets/img/docs/ico3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d388b65880001a035ce" target="_blank"><img src="@@webRoot/assets/img/docs/ico3.webp" srcset="@@webRoot/assets/img/docs/ico3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
                 <!--/.row -->
                 <p class="mb-0">
-                  <a href="https://icons8.com/photos/photo/ceramic-vases-home-collection--5b0bc6ec8b658800012318f1" class="external" target="_blank">cs1.jpg</a>
-                  <a href="https://icons8.com/photos/photo/still-life-with-yellow-dried-flowers-and-a-lemon--5b0bc6f18b658800012318f3" class="external" target="_blank">cs2.jpg</a>
-                  <a href="https://icons8.com/photos/photo/tender-gifts-for-a-tender-person--5b0bc7328b6588000123190d" class="external" target="_blank">cs3.jpg</a>
-                  <a href="https://icons8.com/photos/photo/when-your-tea-is-made-with-love--5aba7d3a8b65880001a035cf" class="external" target="_blank">cs4.jpg</a>
-                  <a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d458b65880001a035d1" class="external" target="_blank">cs5.jpg</a>
-                  <a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d388b65880001a035ce" class="external" target="_blank">cs6.jpg</a>
-                  <a href="https://icons8.com/photos/photo/fruit-jelly-strip-getting-out-of-toothpaste-tube--5aba7cfc8b65880001a035ba" class="external" target="_blank">cs7.jpg</a>
-                  <a href="https://icons8.com/photos/photo/minute-on-the-lips-lifetime-on-the-hips--5aba7cf88b65880001a035b9" class="external" target="_blank">cs8.jpg</a>
-                  <a href="https://icons8.com/photos/photo/bright-idea--5aba7a4a8b65880001a035ad" class="external" target="_blank">cs9.jpg</a>
-                  <a href="https://icons8.com/photos/photo/some-eggs-brown-bread-and-butter--59d8d7cb0b7a6a03ae47271d" class="external" target="_blank">cs10.jpg</a>
-                  <a href="https://icons8.com/photos/photo/flavorful-burst-of-color-and-taste--59d8d4b00b7a6a03ae47265d" class="external" target="_blank">cs11.jpg</a>
-                  <a href="https://iconos8.es/photos/photo/lets-cook-mushrooms-in-a-sour-cream-sauce--59d8d4830b7a6a03ae472653" class="external" target="_blank">cs12.jpg</a>
+                  <a href="https://icons8.com/photos/photo/ceramic-vases-home-collection--5b0bc6ec8b658800012318f1" class="external" target="_blank">cs1.webp</a>
+                  <a href="https://icons8.com/photos/photo/still-life-with-yellow-dried-flowers-and-a-lemon--5b0bc6f18b658800012318f3" class="external" target="_blank">cs2.webp</a>
+                  <a href="https://icons8.com/photos/photo/tender-gifts-for-a-tender-person--5b0bc7328b6588000123190d" class="external" target="_blank">cs3.webp</a>
+                  <a href="https://icons8.com/photos/photo/when-your-tea-is-made-with-love--5aba7d3a8b65880001a035cf" class="external" target="_blank">cs4.webp</a>
+                  <a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d458b65880001a035d1" class="external" target="_blank">cs5.webp</a>
+                  <a href="https://icons8.com/photos/photo/everything-starts-blooming-at-the-touch-of-love--5aba7d388b65880001a035ce" class="external" target="_blank">cs6.webp</a>
+                  <a href="https://icons8.com/photos/photo/fruit-jelly-strip-getting-out-of-toothpaste-tube--5aba7cfc8b65880001a035ba" class="external" target="_blank">cs7.webp</a>
+                  <a href="https://icons8.com/photos/photo/minute-on-the-lips-lifetime-on-the-hips--5aba7cf88b65880001a035b9" class="external" target="_blank">cs8.webp</a>
+                  <a href="https://icons8.com/photos/photo/bright-idea--5aba7a4a8b65880001a035ad" class="external" target="_blank">cs9.webp</a>
+                  <a href="https://icons8.com/photos/photo/some-eggs-brown-bread-and-butter--59d8d7cb0b7a6a03ae47271d" class="external" target="_blank">cs10.webp</a>
+                  <a href="https://icons8.com/photos/photo/flavorful-burst-of-color-and-taste--59d8d4b00b7a6a03ae47265d" class="external" target="_blank">cs11.webp</a>
+                  <a href="https://iconos8.es/photos/photo/lets-cook-mushrooms-in-a-sour-cream-sauce--59d8d4830b7a6a03ae472653" class="external" target="_blank">cs12.webp</a>
                 </p>
                 <hr class="mt-11 mb-10" />
                 <h3 class="mb-5">Mockups</h3>
                 <div class="row gy-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://creativemarket.com/RgraphicsDesign/34011-Web-Themes-Mock-ups" target="_blank"><img src="@@webRoot/assets/img/docs/mo1.jpg" srcset="@@webRoot/assets/img/docs/mo1@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://creativemarket.com/RgraphicsDesign/34011-Web-Themes-Mock-ups" target="_blank"><img src="@@webRoot/assets/img/docs/mo1.webp" srcset="@@webRoot/assets/img/docs/mo1@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://unblast.com/free-flying-iphone-mockup-psd/" target="_blank"><img src="@@webRoot/assets/img/docs/mo2.jpg" srcset="@@webRoot/assets/img/docs/mo2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://unblast.com/free-flying-iphone-mockup-psd/" target="_blank"><img src="@@webRoot/assets/img/docs/mo2.webp" srcset="@@webRoot/assets/img/docs/mo2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.free-mockup.com/downloads/mobile-app-screens-mockup/" target="_blank"><img src="@@webRoot/assets/img/docs/mo3.jpg" srcset="@@webRoot/assets/img/docs/mo3@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.free-mockup.com/downloads/mobile-app-screens-mockup/" target="_blank"><img src="@@webRoot/assets/img/docs/mo3.webp" srcset="@@webRoot/assets/img/docs/mo3@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-iphone-12-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/mo4.jpg" srcset="@@webRoot/assets/img/docs/mo4@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.pixeden.com/psd-mock-up-templates/psd-iphone-12-mockup-set" target="_blank"><img src="@@webRoot/assets/img/docs/mo4.webp" srcset="@@webRoot/assets/img/docs/mo4@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.ls.graphics/free/three-iphone-clay-mockups" target="_blank"><img src="@@webRoot/assets/img/docs/mo5.jpg" srcset="@@webRoot/assets/img/docs/mo5@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.ls.graphics/free/three-iphone-clay-mockups" target="_blank"><img src="@@webRoot/assets/img/docs/mo5.webp" srcset="@@webRoot/assets/img/docs/mo5@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freemockupworld.com/iphone-x-clay-mockup-psd/" target="_blank"><img src="@@webRoot/assets/img/docs/mo6.jpg" srcset="@@webRoot/assets/img/docs/mo6@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freemockupworld.com/iphone-x-clay-mockup-psd/" target="_blank"><img src="@@webRoot/assets/img/docs/mo6.webp" srcset="@@webRoot/assets/img/docs/mo6@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freemockupworld.com/iphone-on-bike-mockup/" target="_blank"><img src="@@webRoot/assets/img/docs/mo7.jpg" srcset="@@webRoot/assets/img/docs/mo7@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freemockupworld.com/iphone-on-bike-mockup/" target="_blank"><img src="@@webRoot/assets/img/docs/mo7.webp" srcset="@@webRoot/assets/img/docs/mo7@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810460.htm#query=clay%20mockup&position=10&from_view=keyword" target="_blank"><img src="@@webRoot/assets/img/docs/mo8.jpg" srcset="@@webRoot/assets/img/docs/mo8@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810460.htm#query=clay%20mockup&position=10&from_view=keyword" target="_blank"><img src="@@webRoot/assets/img/docs/mo8.webp" srcset="@@webRoot/assets/img/docs/mo8@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810461.htm#&position=31&from_view=undefined" target="_blank"><img src="@@webRoot/assets/img/docs/mo9.jpg" srcset="@@webRoot/assets/img/docs/mo9@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810461.htm#&position=31&from_view=undefined" target="_blank"><img src="@@webRoot/assets/img/docs/mo9.webp" srcset="@@webRoot/assets/img/docs/mo9@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810388.htm#from_view=detail_alsolike" target="_blank"><img src="@@webRoot/assets/img/docs/mo10.jpg" srcset="@@webRoot/assets/img/docs/mo10@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810388.htm#from_view=detail_alsolike" target="_blank"><img src="@@webRoot/assets/img/docs/mo10.webp" srcset="@@webRoot/assets/img/docs/mo10@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810390.htm#from_view=detail_alsolike" target="_blank"><img src="@@webRoot/assets/img/docs/mo11.jpg" srcset="@@webRoot/assets/img/docs/mo11@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://www.freepik.com/premium-psd/smartphone-clay-mockup_13810390.htm#from_view=detail_alsolike" target="_blank"><img src="@@webRoot/assets/img/docs/mo11.webp" srcset="@@webRoot/assets/img/docs/mo11@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>
@@ -306,11 +306,11 @@ toc: true
                 <h3 class="mb-5">UI Graphics</h3>
                 <div class="row gy-6">
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://freebiesui.com/figma-freebies/figma-app-designs/medical-app-design/" target="_blank"><img src="@@webRoot/assets/img/docs/oth.jpg" srcset="@@webRoot/assets/img/docs/oth@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://freebiesui.com/figma-freebies/figma-app-designs/medical-app-design/" target="_blank"><img src="@@webRoot/assets/img/docs/oth.webp" srcset="@@webRoot/assets/img/docs/oth@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                   <div class="item col-md-6 col-lg-4">
-                    <figure class="lift rounded"><a href="https://craftwork.design/downloads/dashboards-ui-kit/" target="_blank"><img src="@@webRoot/assets/img/docs/oth2.jpg" srcset="@@webRoot/assets/img/docs/oth2@2x.jpg 2x" alt="" /></a></figure>
+                    <figure class="lift rounded"><a href="https://craftwork.design/downloads/dashboards-ui-kit/" target="_blank"><img src="@@webRoot/assets/img/docs/oth2.webp" srcset="@@webRoot/assets/img/docs/oth2@2x.webp 2x" alt="" /></a></figure>
                   </div>
                   <!--/column -->
                 </div>

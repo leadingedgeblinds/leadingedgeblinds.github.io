@@ -9,12 +9,12 @@ scroll_top_btn:
 
 # Hero Section
 hero:
-  bg_image: /assets/img/photos/bg23.png
+  bg_image: /assets/img/photos/bg23.webp
   bg_overlay: bg-overlay-light-600
   title: Manage all your bills, accounts and budgets in <span class="text-gradient gradient-7">one place.</span>
   subtitle: Sandbox is available to download from both App Store and Google Play Store.
-  device_image: /assets/img/photos/devices3.png
-  device_image2x: /assets/img/photos/devices3@2x.png
+  device_image: /assets/img/photos/devices3.webp
+  device_image2x: /assets/img/photos/devices3@2x.webp
   store_buttons:
     - image: /assets/img/photos/button-appstore.svg
       url: "#"
@@ -69,8 +69,8 @@ features:
 how_it_works:
   title: How It Works
   subtitle: Download the app, create your profile and <span class="text-gradient gradient-7">voilà</span>, you're all set!
-  device_image: /assets/img/photos/devices4.png
-  device_image2x: /assets/img/photos/devices4@2x.png
+  device_image: /assets/img/photos/devices4.webp
+  device_image2x: /assets/img/photos/devices4@2x.webp
   doodles:
     - image: /assets/img/svg/doodle5.svg
       style: "bottom: -60%; right: 10%"
@@ -122,8 +122,8 @@ faq:
 why_choose:
   title: Why Choose Sandbox?
   subtitle: Here are a few <span class="text-gradient gradient-7">reasons why</span> our customers choose the Sandbox app.
-  device_image: /assets/img/photos/devices5.png
-  device_image2x: /assets/img/photos/devices5@2x.png
+  device_image: /assets/img/photos/devices5.webp
+  device_image2x: /assets/img/photos/devices5@2x.webp
   doodles:
     - image: /assets/img/svg/doodle3.svg
       style: "top: -20%; right: -12%"
@@ -175,12 +175,12 @@ testimonials:
 
 # Download Section
 download:
-  bg_image: /assets/img/photos/bg23.png
+  bg_image: /assets/img/photos/bg23.webp
   bg_overlay: bg-overlay-light-600
   title: Manage all your bills, accounts & budgets in <span class="text-gradient gradient-7">one place.</span>
   subtitle: Sandbox is available to download from both App Store and Google Play Store.
-  device_image: /assets/img/photos/devices6.png
-  device_image2x: /assets/img/photos/devices6@2x.png
+  device_image: /assets/img/photos/devices6.webp
+  device_image2x: /assets/img/photos/devices6@2x.webp
   doodles:
     - image: /assets/img/svg/doodle2.svg
       style: "bottom: 36%; right: -25%"

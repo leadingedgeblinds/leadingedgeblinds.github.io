@@ -15,8 +15,8 @@ hero:
 
 # Services Section
 services:
-  image: /assets/img/illustrations/i8.png
-  image2x: /assets/img/illustrations/i8@2x.png
+  image: /assets/img/illustrations/i8.webp
+  image2x: /assets/img/illustrations/i8@2x.webp
   progress_list:
     - name: "Marketing"
       value: 100
@@ -54,8 +54,8 @@ services:
 how_it_works:
   title: "How It Works?"
   subtitle: "Everything you need on creating a business process."
-  image: /assets/img/illustrations/i3.png
-  image2x: /assets/img/illustrations/i3@2x.png
+  image: /assets/img/illustrations/i3.webp
+  image2x: /assets/img/illustrations/i3@2x.webp
   steps:
     - icon: "light-bulb"
       icon_color: "blue"
@@ -74,8 +74,8 @@ how_it_works:
 why_choose_us:
   title: "Why Choose Us?"
   subtitle: "A few reasons why our valued customers choose us."
-  image: /assets/img/illustrations/i2.png
-  image2x: /assets/img/illustrations/i2@2x.png
+  image: /assets/img/illustrations/i2.webp
+  image2x: /assets/img/illustrations/i2@2x.webp
   accordion:
     - title: "Professional Design"
       content: "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel."
@@ -99,8 +99,8 @@ team:
 
 # Testimonials Section
 testimonials:
-  image: /assets/img/illustrations/i4.png
-  image2x: /assets/img/illustrations/i4@2x.png
+  image: /assets/img/illustrations/i4.webp
+  image2x: /assets/img/illustrations/i4@2x.webp
   bg_color: "bg-gray"
   
 
@@ -112,8 +112,8 @@ brands:
 contact:
   title: "Get In Touch"
   subtitle: "Got any questions? Don't hesitate to get in touch."
-  image: /assets/img/illustrations/i5.png
-  image2x: /assets/img/illustrations/i5@2x.png
+  image: /assets/img/illustrations/i5.webp
+  image2x: /assets/img/illustrations/i5@2x.webp
   info:
     - icon: "location-pin-alt"
       title: "Address"

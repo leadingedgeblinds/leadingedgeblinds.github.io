@@ -10,9 +10,9 @@ scroll_top_btn:
 # Hero Section
 hero:
   wrapper_classes: "mx-xxl-11 overflow-hidden"
-  background_image: "/assets/img/photos/bg23.png"
+  background_image: "/assets/img/photos/bg23.webp"
   has_shapes: true
-  title: "👋 Hello! I'm <img class=\"d-inline w-12 mx-1\" src=\"/assets/img/avatars/avatar.png\" alt=\"\"> Camille, a product designer."
+  title: "👋 Hello! I'm <img class=\"d-inline w-12 mx-1\" src=\"/assets/img/avatars/avatar.webp\" alt=\"\"> Camille, a product designer."
   subtitle: "I'm very passionate about the work that I do, and if you are curious you can find my works on <a href=\"#\" class=\"hover\" style=\"color: var(--bs-dribbble);\">Dribbble</a>, my portfolio on <a href=\"#\" class=\"hover\" style=\"color: var(--bs-behance);\">Behance</a>."
   button:
     text: "See My Works"
@@ -61,14 +61,14 @@ projects:
 
 # Testimonials Section
 testimonials:
-  background_image: "/assets/img/photos/bg23.png"
+  background_image: "/assets/img/photos/bg23.webp"
   title: "Don't take our word for it. See what customers are saying about us."
   
 
 # About Section
 about:
-  image: "/assets/img/avatars/avatar.jpg"
-  image2x: "/assets/img/avatars/avatar@2x.jpg"
+  image: "/assets/img/avatars/avatar.webp"
+  image2x: "/assets/img/avatars/avatar@2x.webp"
   title: "More about me"
   lead: "👋 Hello! I'm Camille, a multidisciplinary product designer 🧸 based in New York City 🚕. I'm very passionate about the work 💌 that I do."
   description:
@@ -99,7 +99,7 @@ about:
 # CTA Section
 cta:
   wrapper_classes: "mx-xxl-11 overflow-hidden"
-  background_image: "/assets/img/photos/bg23.png"
+  background_image: "/assets/img/photos/bg23.webp"
   has_shapes: true
   title: "Got a 👾 project in mind? Let's work together. ✌️"
   subtitle: "I bring rapid solutions to make the life of my clients easier. Have any questions? Reach out to me and I will get back to you shortly."

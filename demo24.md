@@ -12,12 +12,12 @@ scroll_top_btn:
 home:
   enable: true 
   images:
-    - img: /assets/img/photos/cf1.jpg
-    - img: /assets/img/photos/cf2.jpg
-    - img: /assets/img/photos/cf3.jpg
-    - img: /assets/img/photos/cf4.jpg
-    - img: /assets/img/photos/cf5.jpg
-    - img: /assets/img/photos/cf6.jpg
+    - img: /assets/img/photos/cf1.webp
+    - img: /assets/img/photos/cf2.webp
+    - img: /assets/img/photos/cf3.webp
+    - img: /assets/img/photos/cf4.webp
+    - img: /assets/img/photos/cf5.webp
+    - img: /assets/img/photos/cf6.webp
 
 # Services Section
 services:
@@ -29,20 +29,20 @@ services:
     label: More Details
     url: "#"
   categories:
-    - img: /assets/img/photos/fs4.jpg
+    - img: /assets/img/photos/fs4.webp
       title: Products
-    - img: /assets/img/photos/fs5.jpg
+    - img: /assets/img/photos/fs5.webp
       title: Restaurants
-    - img: /assets/img/photos/fs6.jpg
+    - img: /assets/img/photos/fs6.webp
       title: Recipes
-    - img: /assets/img/photos/fs7.jpg
+    - img: /assets/img/photos/fs7.webp
       title: Still Life
       
 # Banner Section
 banner:
   enable: true
   text: I take photographs with <br class="d-none d-md-block"> creativity, concept & passion
-  background: /assets/img/photos/bg34.jpg
+  background: /assets/img/photos/bg34.webp
   
 # Portfolio Section
 portfolio:
@@ -62,56 +62,56 @@ portfolio:
     - name: Pastries
       key: ".pastries"
   projects:
-    - img: /assets/img/photos/pf1.jpg
-      full_img: /assets/img/photos/pf1-full.jpg
+    - img: /assets/img/photos/pf1.webp
+      full_img: /assets/img/photos/pf1-full.webp
       title: Fringilla Nullam
       category: drinks events
-    - img: /assets/img/photos/pf2.jpg
-      full_img: /assets/img/photos/pf2-full.jpg
+    - img: /assets/img/photos/pf2.webp
+      full_img: /assets/img/photos/pf2-full.webp
       title: Ridiculus Parturient
       category: events
-    - img: /assets/img/photos/pf3.jpg
-      full_img: /assets/img/photos/pf3-full.jpg
+    - img: /assets/img/photos/pf3.webp
+      full_img: /assets/img/photos/pf3-full.webp
       title: Ornare Ipsum
       category: drinks foods
-    - img: /assets/img/photos/pf4.jpg
-      full_img: /assets/img/photos/pf4-full.jpg
+    - img: /assets/img/photos/pf4.webp
+      full_img: /assets/img/photos/pf4-full.webp
       title: Nullam Mollis
       category: events
-    - img: /assets/img/photos/pf5.jpg
-      full_img: /assets/img/photos/pf5-full.jpg
+    - img: /assets/img/photos/pf5.webp
+      full_img: /assets/img/photos/pf5-full.webp
       title: Euismod Risus
       category: pastries events
-    - img: /assets/img/photos/pf6.jpg
-      full_img: /assets/img/photos/pf6-full.jpg
+    - img: /assets/img/photos/pf6.webp
+      full_img: /assets/img/photos/pf6-full.webp
       title: Ridiculus Tristique
       category: foods
-    - img: /assets/img/photos/pf7.jpg
-      full_img: /assets/img/photos/pf7-full.jpg
+    - img: /assets/img/photos/pf7.webp
+      full_img: /assets/img/photos/pf7-full.webp
       title: Sollicitudin Pharetra
       category: foods drinks
-    - img: /assets/img/photos/pf8.jpg
-      full_img: /assets/img/photos/pf8-full.jpg
+    - img: /assets/img/photos/pf8.webp
+      full_img: /assets/img/photos/pf8-full.webp
       title: Tristique Venenatis
       category: pastries
-    - img: /assets/img/photos/pf9.jpg
-      full_img: /assets/img/photos/pf9-full.jpg
+    - img: /assets/img/photos/pf9.webp
+      full_img: /assets/img/photos/pf9-full.webp
       title: Cursus Fusce
       category: events
-    - img: /assets/img/photos/pf10.jpg
-      full_img: /assets/img/photos/pf10-full.jpg
+    - img: /assets/img/photos/pf10.webp
+      full_img: /assets/img/photos/pf10-full.webp
       title: Consectetur Malesuada
       category: foods
-    - img: /assets/img/photos/pf11.jpg
-      full_img: /assets/img/photos/pf11-full.jpg
+    - img: /assets/img/photos/pf11.webp
+      full_img: /assets/img/photos/pf11-full.webp
       title: Ultricies Aenean
       category: drinks
-    - img: /assets/img/photos/pf12.jpg
-      full_img: /assets/img/photos/pf12-full.jpg
+    - img: /assets/img/photos/pf12.webp
+      full_img: /assets/img/photos/pf12-full.webp
       title: Pellentesque Commodo
       category: foods
-    - img: /assets/img/photos/pf13.jpg
-      full_img: /assets/img/photos/pf13-full.jpg
+    - img: /assets/img/photos/pf13.webp
+      full_img: /assets/img/photos/pf13-full.webp
       title: Ultricies Aenean
       category: drinks
       
@@ -119,7 +119,7 @@ portfolio:
 testimonials:
   enable: true
   title: Happy Customers
-  background: /assets/img/photos/bg35.jpg
+  background: /assets/img/photos/bg35.webp
   testimonials_list:
     - text: "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Vestibulum id ligula porta felis euismod semper. Cras justo odio dapibus facilisis sociis natoque penatibus."
       name: Coriss Ambady
@@ -156,7 +156,7 @@ about:
   button:
     label: Learn More
     url: "#"
-  image: /assets/img/photos/about30.jpg
+  image: /assets/img/photos/about30.webp
   
   # Process Section
   process:
@@ -181,12 +181,12 @@ pricing:
   enable: true
   title: Request Photography Pricing
   subtitle: For more information please get in touch using the form below
-  background: /assets/img/photos/bg36.jpg
+  background: /assets/img/photos/bg36.webp
 
 # Footer details
 footer:
-  logo: /assets/img/logo-dark.png
-  logo2x: /assets/img/logo-dark@2x.png
+  logo: /assets/img/logo-dark.webp
+  logo2x: /assets/img/logo-dark@2x.webp
   description: I'm Caitlyn Sandbox, a photographer specializing in food, drink and product photography.
   phone: 00 (123) 456 78 90<br>00 (987) 654 32 10
   address: Moonshine St. 14/05 Light City, London, United Kingdom

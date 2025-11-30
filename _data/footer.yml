@@ -10,18 +10,18 @@ widget_title_class: text-dark  # Class for widget titles
 newsletter: true       # Whether to include newsletter form (only applicable for default style)
 
 # Call to Action Section
-cta:
-  enabled: false
-  title: Join our community by using our services and grow your business.
-  button_text: Try It For Free
-  button_url: "#"
+#cta:
+#  enabled: false
+#  title: Join our community by using our services and grow your business.
+#  button_text: Try It For Free
+#  button_url: "#"
  
 # Default Footer (4-column)
 column_2:
   title: Get in Touch
-  address: Moonshine St. 14/05 Light City, London, United Kingdom
-  email: info@email.com
-  phone: 00 (123) 456 78 90
+  address: Servicing all areas of Melbourne, Australia.
+  email: mail@leadingedgeblinds.com.au
+  phone: 0418 377 004
   
 column_3:
   title: Learn More
@@ -32,18 +32,18 @@ column_3:
       url: /about#story
     - title: Projects
       url: /projects
-    - title: Terms of Use
-      url: /terms
-    - title: Privacy Policy
-      url: /privacy
+        #- title: Terms of Use
+        #url: /terms
+        #- title: Privacy Policy
+        #url: /privacy
       
-newsletter:
-  title: Our Newsletter
-  description: Subscribe to our newsletter to get our news & deals delivered to you.
-  button_text: Join
-  form_action: https://elemisfreebies.us20.list-manage.com/subscribe/post?u=aa4947f70a475ce162057838d&amp;id=b49ef47a9a
-  # Optional custom HTML form
-  #custom_form: ""
+        #newsletter:
+        #  title: Our Newsletter
+        #  description: Subscribe to our newsletter to get our news & deals delivered to you.
+        #button_text: Join
+        # form_action: https://elemisfreebies.us20.list-manage.com/subscribe/post?u=aa4947f70a475ce162057838d&amp;id=b49ef47a9a
+        # # Optional custom HTML form
+        ##custom_form: ""
   
 # Centered Footer
 centered:
@@ -65,7 +65,7 @@ centered:
     description: "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum."
     button_text: "Join Us"
     button_url: "#"
-    image: "/assets/img/photos/tm1.jpg"
+    image: "/assets/img/photos/tm1.webp"
     
 # Centered Overlay Footer (variant of centered with overlay card)
 centered_overlay:
@@ -224,13 +224,13 @@ blog:
           url: /contact
 
 # Newsletter CTA Card Configuration
-newsletter_cta:
-  enabled: true
-  title: "Subscribe to our newsletter"
-  description: "Subscribe to our newsletter to get our news & deals delivered to you. Don't worry, we hate spam and we respect your privacy."
-  button_text: "Join"
-  bg_image: "/assets/img/photos/bg2.jpg"
-  form_action: "https://elemisfreebies.us20.list-manage.com/subscribe/post?u=aa4947f70a475ce162057838d&amp;id=b49ef47a9a"
+#newsletter_cta:
+#  enabled: true
+#  title: "Subscribe to our newsletter"
+#  description: "Subscribe to our newsletter to get our news & deals delivered to you. Don't worry, we hate spam and we respect your privacy."
+#  button_text: "Join"
+#  bg_image: "/assets/img/photos/bg2.webp"
+#  form_action: "https://elemisfreebies.us20.list-manage.com/subscribe/post?u=aa4947f70a475ce162057838d&amp;id=b49ef47a9a"
 
 # Add this new style configuration
 minimal_alt:

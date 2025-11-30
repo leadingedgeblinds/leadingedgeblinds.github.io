@@ -11,7 +11,7 @@ scroll_top_btn:
 hero:
   title: "Our Services"
   subtitle: "We are a creative company that focuses on establishing long-term relationships with customers."
-  bg_image: "/assets/img/photos/bg1.jpg"
+  bg_image: "/assets/img/photos/bg1.webp"
   bg_overlay: true
 
 # What We Do Section
@@ -42,7 +42,7 @@ what_we_do:
 
 # Video Section
 video:
-  poster: "/assets/img/photos/movie.jpg"
+  poster: "/assets/img/photos/movie.webp"
   url: "/assets/media/movie.mp4"
   webm_url: "/assets/media/movie.webm"
 
@@ -69,8 +69,8 @@ process:
 
 # Features Section Configuration
 section1:
-  image: "/assets/img/illustrations/i8.png"
-  image2x: "/assets/img/illustrations/i8@2x.png"
+  image: "/assets/img/illustrations/i8.webp"
+  image2x: "/assets/img/illustrations/i8@2x.webp"
   title: "We bring rapid solutions to make the life of our customers easier."
   progress_items:
     - name: "Marketing"
@@ -87,8 +87,8 @@ section1:
       color: "green"
 
 section2:
-  image: "/assets/img/illustrations/i7.png"
-  image2x: "/assets/img/illustrations/i7@2x.png"
+  image: "/assets/img/illustrations/i7.webp"
+  image2x: "/assets/img/illustrations/i7@2x.webp"
   title: "We make your spending stress-free for you to have the perfect control."
   description: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
   features:
@@ -167,7 +167,7 @@ pricing:
 community:
   title: "Join Our Community"
   subtitle: "We are trusted by over 5000+ clients. Join them now and grow your business."
-  bg_image: "/assets/img/map.png"
+  bg_image: "/assets/img/map.webp"
   counters:
     - count: 7518
       label: "Completed Projects"

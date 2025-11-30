@@ -18,7 +18,7 @@ hero:
     - label: Contact Us
       url: "#"
       class: btn btn-lg btn-outline-primary rounded-pill
-  image: /assets/img/photos/about16.jpg
+  image: /assets/img/photos/about16.webp
   image_position: right
   min_height: min-vh-70 
 
@@ -73,7 +73,7 @@ why_choose_us:
 video:
   title: Find out everything you need to know about creating a business process model.
   video_url: /assets/media/movie.mp4
-  background_image: /assets/img/photos/bg1.jpg
+  background_image: /assets/img/photos/bg1.webp
 
 # Team Section
 team:
@@ -109,7 +109,7 @@ contact:
   text: Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   button_text: Join Us
   button_url: "#"
-  image: /assets/img/photos/tm1.jpg
+  image: /assets/img/photos/tm1.webp
 ---
 <div class="content-wrapper">
 <!-- HEADER -->

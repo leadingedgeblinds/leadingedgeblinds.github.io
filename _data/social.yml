@@ -2,9 +2,9 @@ social_accounts:
   title: "Follow Us"
   links_shown: 4
   links:
-    - url: "#"
-      icon: "uil uil-twitter"
-      text: "Twitter"
+    #  - url: "#"
+    #  icon: "uil uil-twitter"
+    #  text: "Twitter"
 
     - url: "#"
       icon: "uil uil-facebook-f"
@@ -14,10 +14,10 @@ social_accounts:
       icon: "uil uil-instagram"
       text: "Instagram"
 
-    - url: "#"
-      icon: "uil uil-youtube"
-      text: "Youtube"
+        # - url: "#"
+        # icon: "uil uil-youtube"
+        #text: "Youtube"
 
-    - url: "#"
-      icon: "uil uil-dribbble"
-      text: "Dribbble"
+        #- url: "#"
+        # icon: "uil uil-dribbble"
+        # text: "Dribbble"

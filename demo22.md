@@ -14,7 +14,7 @@ hero:
   video_btn:
     enable: true
     url: /assets/media/movie.mp4
-  bg_image: /assets/img/photos/bg26.jpg
+  bg_image: /assets/img/photos/bg26.webp
 
 # Services Section
 services:
@@ -44,8 +44,8 @@ services:
 how_it_works:
   subtitle: How It Works?
   title: Find out everything about creating a business model.
-  image: /assets/img/illustrations/i9.png
-  image2x: /assets/img/illustrations/i9@2x.png
+  image: /assets/img/illustrations/i9.webp
+  image2x: /assets/img/illustrations/i9@2x.webp
   steps:
     - number: 1
       title: Creative Ideas
@@ -64,8 +64,8 @@ how_it_works:
 why_choose:
   subtitle: Why Choose Us?
   title: We bring solutions to make life easier for our clients.
-  image: /assets/img/illustrations/i12.png
-  image2x: /assets/img/illustrations/i12@2x.png
+  image: /assets/img/illustrations/i12.webp
+  image2x: /assets/img/illustrations/i12@2x.webp
   accordion_items:
     - title: Professional Design
       content: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
@@ -168,7 +168,7 @@ cta:
   button:
     text: Join Us
     url: "#"
-  bg_image: /assets/img/photos/bg27.jpg
+  bg_image: /assets/img/photos/bg27.webp
 ---
 <div class="py-md-6">
   <div class="content-wrapper">

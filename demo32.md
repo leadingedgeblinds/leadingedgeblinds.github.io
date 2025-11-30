@@ -25,7 +25,7 @@ hero:
 video:
   bg_class: "wrapper bg-light"
   video_url: "/assets/media/movie3.mp4"
-  poster: "/assets/img/photos/movie3.jpg"
+  poster: "/assets/img/photos/movie3.webp"
 
 # About Section
 about:
@@ -40,12 +40,12 @@ about:
     - count: "12x"
       text: "Revenue Growth"
   images:
-    - image: "/assets/img/photos/g12.jpg"
-      image2x: "/assets/img/photos/g12@2x.jpg"
-    - image: "/assets/img/photos/g13.jpg"
-      image2x: "/assets/img/photos/g13@2x.jpg"
-    - image: "/assets/img/photos/g11.jpg"
-      image2x: "/assets/img/photos/g11@2x.jpg"
+    - image: "/assets/img/photos/g12.webp"
+      image2x: "/assets/img/photos/g12@2x.webp"
+    - image: "/assets/img/photos/g13.webp"
+      image2x: "/assets/img/photos/g13@2x.webp"
+    - image: "/assets/img/photos/g11.webp"
+      image2x: "/assets/img/photos/g11@2x.webp"
 
 # Values Section
 values:
@@ -68,22 +68,22 @@ services:
   main_title: "The full service we are offering is specifically designed to meet your business needs."
   main_title_class: "display-3 text-white mb-10"
   service_items:
-    - icon: "/assets/img/illustrations/ni1.png"
+    - icon: "/assets/img/illustrations/ni1.webp"
       title: Marketing Automation
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
-    - icon: "/assets/img/illustrations/ni2.png"
+    - icon: "/assets/img/illustrations/ni2.webp"
       title: Project Management
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
-    - icon: "/assets/img/illustrations/ni3.png"
+    - icon: "/assets/img/illustrations/ni3.webp"
       title: Web Analytics
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
-    - icon: "/assets/img/illustrations/ni4.png"
+    - icon: "/assets/img/illustrations/ni4.webp"
       title: SEO Services
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
-    - icon: "/assets/img/illustrations/ni5.png"
+    - icon: "/assets/img/illustrations/ni5.webp"
       title: Market Research
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
-    - icon: "/assets/img/illustrations/ni6.png"
+    - icon: "/assets/img/illustrations/ni6.webp"
       title: Social Media Management
       text: Duis mollis gravida commodo id luctus erat porttitor ligula, eget lacinia odio sem aget elit.
 
@@ -99,8 +99,8 @@ features:
     - text: Aenean eu leo quam. Pellentesque ornare.
     - text: Nullam quis risus eget urna mollis ornare.
     - text: Donec id elit non mi porta gravida at eget.
-  image: "/assets/img/photos/about27.jpg"
-  image2x: "/assets/img/photos/about27@2x.jpg"
+  image: "/assets/img/photos/about27.webp"
+  image2x: "/assets/img/photos/about27@2x.webp"
   cards:
     - position: "top: 15%; left: -7%"
       icon: "uil uil-users-alt"
@@ -118,17 +118,17 @@ case_studies:
   main_title: "Check out some of our awesome projects with creative ideas and great design."
   main_title_class: "display-3 mb-10"
   projects:
-    - image: "/assets/img/photos/b4.jpg"
+    - image: "/assets/img/photos/b4.webp"
       title: "Ligula tristique quis risus"
       text: "Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor."
       date: "14 Apr 2022"
       category: "Coding"
-    - image: "/assets/img/photos/b5.jpg"
+    - image: "/assets/img/photos/b5.webp"
       title: "Nullam id dolor elit id nibh"
       text: "Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor."
       date: "29 Mar 2022"
       category: "Office"
-    - image: "/assets/img/photos/b6.jpg"
+    - image: "/assets/img/photos/b6.webp"
       title: "Ultricies fusce porta elit"
       text: "Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor."
       date: "26 Feb 2022"
@@ -143,7 +143,7 @@ why_choose_us:
   main_title_class: "display-3 mb-10 px-xl-10 px-xxl-15"
   tabs:
     - id: "tab2-1"
-      icon: "/assets/img/illustrations/ni7.png"
+      icon: "/assets/img/illustrations/ni7.webp"
       title: "Easy Usage"
       subtitle: "Duis mollis commodo luctus cursus commodo tortor."
       content_title: "Easy Usage"
@@ -153,15 +153,15 @@ why_choose_us:
         - text: Nullam quis risus eget urna mollis ornare.
         - text: Donec id elit non mi porta gravida at eget.
       images:
-        - image: "/assets/img/photos/sa13.jpg"
-          image2x: "/assets/img/photos/sa13@2x.jpg"
-        - image: "/assets/img/photos/sa14.jpg"
-          image2x: "/assets/img/photos/sa14@2x.jpg"
-        - image: "/assets/img/photos/sa15.jpg"
-          image2x: "/assets/img/photos/sa15@2x.jpg"
+        - image: "/assets/img/photos/sa13.webp"
+          image2x: "/assets/img/photos/sa13@2x.webp"
+        - image: "/assets/img/photos/sa14.webp"
+          image2x: "/assets/img/photos/sa14@2x.webp"
+        - image: "/assets/img/photos/sa15.webp"
+          image2x: "/assets/img/photos/sa15@2x.webp"
       active: true
     - id: "tab2-2"
-      icon: "/assets/img/illustrations/ni8.png"
+      icon: "/assets/img/illustrations/ni8.webp"
       title: "Fast Transactions"
       subtitle: "Vivamus sagittis lacus augue fusce dapibus tellus nibh."
       content_title: "Fast Transactions"
@@ -171,16 +171,16 @@ why_choose_us:
         - text: Nullam quis risus eget urna mollis ornare.
         - text: Donec id elit non mi porta gravida at eget.
       images:
-        - image: "/assets/img/photos/sa9.jpg"
-          image2x: "/assets/img/photos/sa9@2x.jpg"
-        - image: "/assets/img/photos/sa10.jpg"
-          image2x: "/assets/img/photos/sa10@2x.jpg"
-        - image: "/assets/img/photos/sa11.jpg"
-          image2x: "/assets/img/photos/sa11@2x.jpg"
-        - image: "/assets/img/photos/sa12.jpg"
-          image2x: "/assets/img/photos/sa12@2x.jpg"
+        - image: "/assets/img/photos/sa9.webp"
+          image2x: "/assets/img/photos/sa9@2x.webp"
+        - image: "/assets/img/photos/sa10.webp"
+          image2x: "/assets/img/photos/sa10@2x.webp"
+        - image: "/assets/img/photos/sa11.webp"
+          image2x: "/assets/img/photos/sa11@2x.webp"
+        - image: "/assets/img/photos/sa12.webp"
+          image2x: "/assets/img/photos/sa12@2x.webp"
     - id: "tab2-3"
-      icon: "/assets/img/illustrations/ni9.png"
+      icon: "/assets/img/illustrations/ni9.webp"
       title: "Secure Payments"
       subtitle: "Vestibulum ligula porta felis maecenas faucibus mollis."
       content_title: "Secure Payments"
@@ -190,14 +190,14 @@ why_choose_us:
         - text: Nullam quis risus eget urna mollis ornare.
         - text: Donec id elit non mi porta gravida at eget.
       images:
-        - image: "/assets/img/photos/sa5.jpg"
-          image2x: "/assets/img/photos/sa5@2x.jpg"
-        - image: "/assets/img/photos/sa6.jpg"
-          image2x: "/assets/img/photos/sa6@2x.jpg"
-        - image: "/assets/img/photos/sa7.jpg"
-          image2x: "/assets/img/photos/sa7@2x.jpg"
-        - image: "/assets/img/photos/sa8.jpg"
-          image2x: "/assets/img/photos/sa8@2x.jpg"
+        - image: "/assets/img/photos/sa5.webp"
+          image2x: "/assets/img/photos/sa5@2x.webp"
+        - image: "/assets/img/photos/sa6.webp"
+          image2x: "/assets/img/photos/sa6@2x.webp"
+        - image: "/assets/img/photos/sa7.webp"
+          image2x: "/assets/img/photos/sa7@2x.webp"
+        - image: "/assets/img/photos/sa8.webp"
+          image2x: "/assets/img/photos/sa8@2x.webp"
 
 # Team Section
 team:
@@ -207,7 +207,7 @@ team:
   main_title: "Save your time and money by choosing our professional team."
   main_title_class: "display-3 px-lg-18 px-xl-12 px-xxl-15 mb-6"
   text: "Curabitur blandit tempus porttitor. Maecenas faucibus mollis interdum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed diam eget risus varius blandit sit amet non magna."
-  image: "/assets/img/photos/bg12.jpg"
+  image: "/assets/img/photos/bg12.webp"
 
 # Testimonials Section
 testimonials:

@@ -18,9 +18,9 @@ hero:
     - label: "Explore Now"
       url: "#"
       class: "btn btn-lg btn-outline-grape rounded"
-  image: /assets/img/illustrations/3d11.png
-  image2x: /assets/img/illustrations/3d11@2x.png
-  bg_image: /assets/img/photos/clouds.png
+  image: /assets/img/illustrations/3d11.webp
+  image2x: /assets/img/illustrations/3d11@2x.webp
+  bg_image: /assets/img/photos/clouds.webp
 
 # Services Section
 services:
@@ -52,8 +52,8 @@ services:
 why_choose:
   title_tag: "Why Choose Us?"
   title: "So here a few reasons why our valued customers choose us."
-  image: /assets/img/illustrations/3d8.png
-  image2x: /assets/img/illustrations/3d8@2x.png
+  image: /assets/img/illustrations/3d8.webp
+  image2x: /assets/img/illustrations/3d8@2x.webp
   features:
     - icon: lamp
       title: "Creativity"
@@ -73,8 +73,8 @@ solutions:
   title_tag: "Our Solutions"
   title: "Just sit & relax while we take care of your business needs."
   text: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus. Maecenas sed diam eget risus varius blandit sit amet non magna. Praesent commodo cursus magna."
-  image: /assets/img/illustrations/3d5.png
-  image2x: /assets/img/illustrations/3d5@2x.png
+  image: /assets/img/illustrations/3d5.webp
+  image2x: /assets/img/illustrations/3d5@2x.webp
   stats:
     - value: "99.7%"
       label: "Customer Satisfaction"
@@ -85,8 +85,8 @@ solutions:
 testimonials:
   title_tag: "Happy Customers"
   title: "Don't take our word for it. See what customers are saying about us."
-  image: /assets/img/photos/about28.jpg
-  image2x: /assets/img/photos/about28@2x.jpg
+  image: /assets/img/photos/about28.webp
+  image2x: /assets/img/photos/about28@2x.webp
   
 
 # Pricing Section
@@ -129,15 +129,15 @@ lets_talk:
   text: "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus."
   button_text: "Join Us"
   button_url: "#"
-  image: /assets/img/illustrations/3d3.png
-  image2x: /assets/img/illustrations/3d3@2x.png
+  image: /assets/img/illustrations/3d3.webp
+  image2x: /assets/img/illustrations/3d3@2x.webp
 
 # Analyze Section
 analyze:
   title_tag: "Analyze Now"
   title: "Wonder how much faster your website can go? Easily check your SEO Score now."
   button_text: "Analyze"
-  bg_image: /assets/img/photos/clouds.png
+  bg_image: /assets/img/photos/clouds.webp
 
 ---
 <div class="content-wrapper">

@@ -14,8 +14,8 @@ hero:
   button:
     label: "Try It For Free"
     url: "#"
-  image: /assets/img/illustrations/i2.png
-  image2x: /assets/img/illustrations/i2@2x.png
+  image: /assets/img/illustrations/i2.webp
+  image2x: /assets/img/illustrations/i2@2x.webp
 
 # What We Do Section
 services:
@@ -52,8 +52,8 @@ analyze:
   title: "Wonder how much faster your website can go? Easily check your SEO Score now."
   subtitle: "Analyze Now"
   text: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et."
-  image: /assets/img/illustrations/i3.png
-  image2x: /assets/img/illustrations/i3@2x.png
+  image: /assets/img/illustrations/i3.webp
+  image2x: /assets/img/illustrations/i3@2x.webp
 
 # Our Strategy Section
 strategy:
@@ -78,8 +78,8 @@ strategy:
 whychoose:
   title: "We bring solutions to make life easier for our clients."
   subtitle: "Why Choose Us?"
-  image: /assets/img/illustrations/i6.png
-  image2x: /assets/img/illustrations/i6@2x.png
+  image: /assets/img/illustrations/i6.webp
+  image2x: /assets/img/illustrations/i6@2x.webp
   accordion:
     - title: "Professional Design"
       text: "Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel."
@@ -101,8 +101,8 @@ solutions:
   title: "We make your spending stress-free for you to have the perfect control."
   subtitle: "Our Solutions"
   text: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus."
-  image: /assets/img/illustrations/i8.png
-  image2x: /assets/img/illustrations/i8@2x.png
+  image: /assets/img/illustrations/i8.webp
+  image2x: /assets/img/illustrations/i8@2x.webp
   features:
     - text: "Aenean quam ornare. Curabitur blandit."
     - text: "Nullam quis risus eget urna mollis ornare."
@@ -137,8 +137,8 @@ lets_talk:
   button:
     label: "Join Us"
     url: "#"
-  image: /assets/img/illustrations/i5.png
-  image2x: /assets/img/illustrations/i5@2x.png
+  image: /assets/img/illustrations/i5.webp
+  image2x: /assets/img/illustrations/i5@2x.webp
 
 # Clients Section is from clients.json
 clients:

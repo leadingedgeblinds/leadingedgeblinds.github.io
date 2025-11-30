@@ -18,15 +18,15 @@ hero:
     - label: Contact Us
       url: "#"
       class: btn btn-lg btn-outline-white rounded-pill
-  background: /assets/img/photos/bg4.jpg
+  background: /assets/img/photos/bg4.webp
   slider:
-    - image: /assets/img/photos/about21.jpg
-      image2x: /assets/img/photos/about21@2x.jpg
-    - image: /assets/img/photos/about22.jpg
-      image2x: /assets/img/photos/about22@2x.jpg
+    - image: /assets/img/photos/about21.webp
+      image2x: /assets/img/photos/about21@2x.webp
+    - image: /assets/img/photos/about22.webp
+      image2x: /assets/img/photos/about22@2x.webp
       video: /assets/media/movie.mp4
-    - image: /assets/img/photos/about23.jpg
-      image2x: /assets/img/photos/about23@2x.jpg
+    - image: /assets/img/photos/about23.webp
+      image2x: /assets/img/photos/about23@2x.webp
 
 # Services Section
 services:
@@ -54,8 +54,8 @@ services:
 why_choose:
   title: Why Choose Us?
   subtitle: We bring solutions to make life easier for our clients.
-  image: /assets/img/illustrations/i11.png
-  image2x: /assets/img/illustrations/i11@2x.png
+  image: /assets/img/illustrations/i11.webp
+  image2x: /assets/img/illustrations/i11@2x.webp
   accordion_items:
     - title: Professional Design
       content: Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel.
@@ -72,8 +72,8 @@ solutions:
   title: Our Solutions
   subtitle: We make your spending stress-free for you to have the perfect control.
   text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus.
-  image: /assets/img/illustrations/i17.png
-  image2x: /assets/img/illustrations/i17@2x.png
+  image: /assets/img/illustrations/i17.webp
+  image2x: /assets/img/illustrations/i17@2x.webp
   features:
     - text: Aenean quam ornare. Curabitur blandit.
     - text: Nullam quis risus eget urna mollis ornare.
@@ -82,7 +82,7 @@ solutions:
 
 # Stats Section
 stats:
-  background: /assets/img/photos/bg2.jpg
+  background: /assets/img/photos/bg2.webp
   stats_items:
     - count: 7518
       text: Completed Projects
@@ -98,22 +98,22 @@ case_studies:
   title: Case Studies
   subtitle: Check out some of our awesome projects with creative ideas and great design.
   case_items:
-    - image: /assets/img/photos/b4.jpg
+    - image: /assets/img/photos/b4.webp
       title: Ligula tristique quis risus
       text: Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
       date: 14 Apr 2022
       category: Coding
-    - image: /assets/img/photos/b5.jpg
+    - image: /assets/img/photos/b5.webp
       title: Nullam id dolor elit id nibh
       text: Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
       date: 29 Mar 2022
       category: Workspace
-    - image: /assets/img/photos/b6.jpg
+    - image: /assets/img/photos/b6.webp
       title: Ultricies fusce porta elit
       text: Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
       date: 26 Feb 2022
       category: Meeting
-    - image: /assets/img/photos/b7.jpg
+    - image: /assets/img/photos/b7.webp
       title: Morbi leo risus porta eget
       text: Mauris convallis non ligula non interdum. Gravida vulputate convallis tempus vestibulum cras imperdiet nun eu dolor.
       date: 7 Jan 2022
@@ -124,8 +124,8 @@ about:
   title: Who Are We?
   subtitle: Company that believes in the power of creative strategy.
   text: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-  video_image: /assets/img/photos/about12.jpg
-  video_image2x: /assets/img/photos/about12@2x.jpg
+  video_image: /assets/img/photos/about12.webp
+  video_image2x: /assets/img/photos/about12@2x.webp
   video_url: /assets/media/movie.mp4
   features:
     - text: Aenean eu leo quam ornare curabitur blandit tempus.
@@ -141,7 +141,7 @@ team:
 
 # Testimonials Section
 testimonials:
-  background: /assets/img/photos/bg2.jpg
+  background: /assets/img/photos/bg2.webp
   
 
 # Pricing Section

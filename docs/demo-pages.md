@@ -95,7 +95,7 @@ projects:
   style: "carousel"  # Options: basic, video, carousel
   title: "Welcome to Sandbox"
   subtitle: "Build better websites with Sandbox"
-  background_image: "/assets/img/photos/bg1.jpg"
+  background_image: "/assets/img/photos/bg1.webp"
   buttons:
     - text: "Get Started"
       url: "/contact"
@@ -126,7 +126,7 @@ projects:
   title_class: "fs-16 text-uppercase text-muted mb-3"
   main_title: "Check out some of our awesome projects"
   project_items:
-    - image: "/assets/img/photos/pd1.jpg"
+    - image: "/assets/img/photos/pd1.webp"
       category: "Development"
       title: "Project Title"
       url: "/single-project.html"</code></pre>
@@ -214,7 +214,7 @@ sections:
 <pre class="language-yaml"><code>footer:
   style: "widget"  # Options: simple, widget, extended
   background: "dark"
-  logo: "/assets/img/logo-light.png"
+  logo: "/assets/img/logo-light.webp"
   widgets:
     - title: "About Us"
       content: "Company description here"
@@ -282,7 +282,7 @@ sections:
   items:
     - title: "Project Name"
       category: "Branding"
-      image: "/assets/img/portfolio/1.jpg"</code></pre>
+      image: "/assets/img/portfolio/1.webp"</code></pre>
           </div>
         </div>
       </div>
@@ -411,7 +411,7 @@ testimonials:
   - style: "carousel"
     interval: 5000
   - style: "parallax"
-    image: "background.jpg"</code></pre>
+    image: "background.webp"</code></pre>
           </div>
         </div>
       </div>

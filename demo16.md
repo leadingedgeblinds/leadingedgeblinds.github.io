@@ -10,8 +10,8 @@ scroll_top_btn:
 
 # Hero Section
 hero:
-  image: /assets/img/photos/about17.jpg
-  image2x: /assets/img/photos/about17@2x.jpg
+  image: /assets/img/photos/about17.webp
+  image2x: /assets/img/photos/about17@2x.webp
   card:
     icon: /assets/img/icons/lineal/check.svg
     count: 250+

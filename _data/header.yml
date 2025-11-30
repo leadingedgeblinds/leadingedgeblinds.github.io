@@ -16,7 +16,7 @@ styles:
     text_classes: "text-white"
     show_category: true
     overlay: true
-    default_background_image: "/assets/img/photos/post-overlay-default.jpg"
+    default_background_image: "/assets/img/photos/post-overlay-default.webp"
 
   blog-list:
     section_classes: "wrapper bg-soft-primary"
