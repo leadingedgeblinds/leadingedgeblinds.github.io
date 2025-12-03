@@ -45656,3 +45656,25 @@ footer.bg-dark.angled.lower-start:after, footer.bg-dark.angled.upper-start:befor
 .accordion-wrapper .card-header button {
   box-shadow: none;
 }
+
+/* inserted today */
+/* Image Rotator */
+.hero-image-rotator {
+  position: relative;
+  width: 100%;
+}
+
+.hero-rotator-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  opacity: 0;
+  transition: opacity 1.2s ease-in-out;
+}
+
+.hero-rotator-img.active {
+  opacity: 1;
+  position: relative;
+}
+

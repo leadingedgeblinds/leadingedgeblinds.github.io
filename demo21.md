@@ -7,17 +7,80 @@ custom_font: urbanist
 scroll_top_btn:
   enable: true
 
-# Hero Section
 hero:
-  title: Transforming homes with premium <span class="rotator-fade text-primary">blinds, shutters, awnings</span>
-  subtitle: For over 30 years, Leading Edge Shutters & Blinds has delivered expertly crafted windows furnishings designed for comfort, style and lasting quality.
-  button:
-    label: Get Started
-    url: "#"
-    class: btn btn-lg btn-primary rounded-pill
-  image: /assets/img/illustrations/i21.webp
-  image2x: /assets/img/illustrations/i21@2x.webp
-  trust_text: Trusted by homeowners and builders for over 30 years
+  slides:
+    - background: /assets/img/illustrations/i1hero.webp
+      title: 'Transforming homes with premium <span class="rotator-fade text-primary">blinds, shutters, awnings</span>'
+      subtitle: "For over 30 years, Leading Edge Shutters & Blinds has delivered expertly crafted window furnishings designed for comfort, style and lasting quality."
+      button:
+        label: "View Our Range"
+        url: "#products"
+        class: "btn btn-lg btn-outline-white rounded-pill"
+      position: left
+      animation: true
+
+    - background: /assets/img/illustrations/i2hero.webp
+      title: "Custom-made window coverings, tailored to your home."
+      subtitle: "From plantation shutters to motorised blinds, we offer personalised solutions built to last."
+      button:
+        label: "Book a Free Measure & Quote"
+        url: "#contact"
+        class: "btn btn-lg btn-outline-white rounded-pill"
+      position: center
+      animation: true
+
+    - background: /assets/img/illustrations/i3hero.webp
+      title: "Premium craftsmanship. Exceptional value."
+      subtitle: "Quality materials, experienced installers, and seamless service from start to finish."
+      button:
+        label: "Why Choose Us"
+        url: "#whyus"
+        class: "btn btn-lg btn-outline-white rounded-pill"
+      position: right
+      animation: true
+
+    - background: /assets/img/illustrations/i4hero.webp
+      title: "Create comfort, style, and privacy in every room."
+      subtitle: "Discover blinds, shutters and awnings that elevate your lifestyle and enhance your home."
+      button:
+        label: "Explore Inspiration"
+        url: "#gallery"
+        class: "btn btn-lg btn-outline-white rounded-pill"
+      position: left
+      animation: true
+
+
+
+
+
+# Hero Section 15
+#    hero:
+#      slides:
+##        - background: /assets/img/photos/bg7.webp
+#          title: "We bring solutions to make life easier."
+##          subtitle: "We are a creative company that focuses on long term relationships with customers."
+#          button:
+#            label: "Read More"
+#            url: "#"
+#            class: "btn btn-lg btn-outline-white rounded-pill"
+#          position: left
+#          animation: true
+#        - background: /assets/img/photos/bg8.webp
+#          title: "We are trusted by over a million customers."
+#          subtitle: "Here a few reasons why our customers choose us."
+#          video_url: /assets/media/movie.mp4
+#          position: center
+#          animation: true
+##        - background: /assets/img/photos/bg9.webp
+#          title: "Just sit and relax."
+#          subtitle: "We make sure your spending is stress free so that you can have the perfect control."
+#          button:
+#            label: "Contact Us"
+#            url: "#"
+#            class: "btn btn-lg btn-outline-white rounded-pill"
+#          position: right
+#          animation: true
+
 
 
 # Services Section
@@ -25,18 +88,18 @@ services:
   title: What We Do?
   subtitle: Expert solutions designed to enhance comfort, style, and privacy in your home.
   service_items:
-    - image: /assets/img/illustrations/i24.webp
-      image2x: /assets/img/illustrations/i24@2x.webp
+    - image: /assets/img/illustrations/i1serv.webp
+      image2x: /assets/img/illustrations/i1serv.webp
       title: Custom Shutters
       text: High-quality plantation shutters crafted to fit your windows perfectly, offering timeless style and long-lasting durability.
-    - image: /assets/img/illustrations/i19.webp
-      image2x: /assets/img/illustrations/i19@2x.webp
+    - image: /assets/img/illustrations/i2serv.webp
+      image2x: /assets/img/illustrations/i2serv.webp
       title: Indoor & Outdoor Blinds
       text: A wide range of blinds designed for light control, privacy, and insulation—available for both interior spaces and outdoor areas.
-    - image: /assets/img/illustrations/i18.webp
-      image2x: /assets/img/illustrations/i18@2x.webp
+    - image: /assets/img/illustrations/i3serv.webp
+      image2x: /assets/img/illustrations/i3serv.webp
       title: Awnings & Shade Systems
-      text: Custom-made awnings and outdoor shade solutions built to protect your home from heat and glare while enhancing your exterior aesthetic.
+      text: Custom-made outdoor shade solutions built to protect your home from heat and glare while enhancing your exterior aesthetic.
 
 
 # Strategy Section
@@ -179,7 +242,7 @@ footer_cta:
 </header>
 <!-- /header -->
 
-{% include components/sections/demo21/hero.html %}
+{% include components/sections/demo15/hero.html %}
 {% include components/sections/demo21/services.html %}
 {% include components/sections/demo21/strategy.html %}
 {% include components/sections/demo21/why-us.html %}
