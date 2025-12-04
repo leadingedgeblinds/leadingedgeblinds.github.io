@@ -1,9 +1,7 @@
 # General Settings
-site_name: Sandbox
-title: "Sandbox - Modern & Multipurpose Jekyll Theme"
+site_name: LeadingEdge
+title: "Leading Edge Shutters and Blinds"
 description: >- # this means to ignore newlines until "baseurl:"
-  An impressive and flawless site template that includes various UI elements and countless features, attractive
-   ready-made blocks and rich pages, basically everything you need to create a unique and professional website.
 favicon: "/assets/img/favicon.webp"
 
 # Seo Meta Settings
@@ -29,11 +27,11 @@ light_logo_2x: "/assets/img/logo-light@2x.webp"
 
 address: 'Moonshine St. 14/05 Light City, London, United Kingdom'
 address_01: 'Moonshine St. <br>14/05 Light City,<br /> London, United Kingdom'
-phone_number: "+00 (123) 456 78 90"
-phone_number2: "+00 (987) 654 32 10"
-email: "tortoizthemes@gmail.com"
-email_2: "support@tortoizthemes.com"
-copyright: "© 2025 Sandbox."
+phone_number: "0418377004"
+  #phone_number2: "+00 (987) 654 32 10"
+email: "mail@leadingedgeblinds.com.au"
+  #email_2: "support@tortoizthemes.com"
+copyright: "© 2025 Leading Edge Blinds."
 copyright_text: "All rights reserved."
 
 #disqus comments
