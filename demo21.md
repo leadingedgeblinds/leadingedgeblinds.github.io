@@ -108,10 +108,10 @@ strategy:
   subtitle: A guided process from consultation to long-term care.
   text: Our process is designed to make every stage clear, convenient, and stress-free. From the first visit to your home through to after-care support, we ensure the highest standard of service.
   text2: With over 30 years of experience, we deliver tailored advice, precise craftsmanship, and professional installation to ensure your shutters, blinds, and awnings perform beautifully for years.
-  #button:
-  #  label: Learn More
-  #  url: "#"
-  #  class: btn btn-primary rounded-pill
+#button:
+#  label: Learn More
+#  url: "#"
+#  class: btn btn-primary rounded-pill
   steps:
     - number: "01"
       title: Consultation and Measuring
@@ -177,9 +177,9 @@ company_facts:
 #team:
   
 # Projects Section
-projects:
-  title: Latest Projects
-  subtitle: Check out some of our awesome projects with creative ideas and great design.
+#projects:
+#  title: Latest Projects
+#  subtitle: Check out some of our awesome projects with creative ideas and great design.
 
 # Testimonials Section
 #testimonials:
@@ -246,7 +246,6 @@ footer_cta:
 {% include components/sections/demo21/services.html %}
 {% include components/sections/demo21/strategy.html %}
 {% include components/sections/demo21/why-us.html %}
-{% include components/sections/demo21/projects.html %}
 {% include components/sections/demo21/faq.html %}
 
 </div>
