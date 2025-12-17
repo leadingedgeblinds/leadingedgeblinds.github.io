@@ -234,7 +234,7 @@ footer_cta:
     classList="classic transparent navbar-light "
     logoAlt="logo-dark"
     otherClassList="ms-lg-4"
-    otherBtn=true
+    otherBtn=false
     otherBtnClassList="btn btn-sm btn-primary rounded-pill"
     otherBtnText="Contact"
     otherBtnLink="/contact/"     

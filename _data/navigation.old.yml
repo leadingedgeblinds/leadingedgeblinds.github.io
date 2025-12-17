@@ -1,0 +1,121 @@
+main:
+  - title: Projects
+    type: dropdown-columns
+    items:
+      - title: Project Pages
+        submenu:
+          - title: Projects I
+            url: /projects-tiles
+  - title: Documentation
+    type: mega-menu
+    items:
+      - column: 0
+        col: 4
+        title: Usage
+        cc: 2
+        pb: 1
+        submenu:
+          - title: Get Started
+            url: /docs/index/
+          - title: Site Config
+            url: /docs/config/
+          - title: Settings
+            url: /docs/settings/
+          - title: Navigation
+            url: /docs/navigation/
+          - title: Authors
+            url: /docs/authors/
+          - title: Data Files
+            url: /docs/data-files/
+          - title: Projects
+            url: /docs/projects/
+          - title: Posts
+            url: /docs/posts/
+          - title: components
+            url: /docs/component-variations/
+          - title: Demo Pages
+            url: /docs/demo-pages/
+          - title: Rake Guide
+            url: /docs/rake-guide/
+          - title: Without Rake
+            url: /docs/without-rake-guide/
+          - title: Changelog
+            url: /docs/changelog/
+          - title: Credits
+            url: /docs/credits/
+        mt: 6
+        second_title: Styleguide
+        second_submenu:
+          - title: Colors
+            url: /docs/styleguide/colors/
+          - title: Fonts
+            url: /docs/styleguide/fonts/
+          - title: SVG Icons
+            url: /docs/styleguide/icons-svg/
+          - title: Font Icons
+            url: /docs/styleguide/icons-font/
+          - title: Illustrations
+            url: /docs/styleguide/illustrations/
+          - title: Backgrounds
+            url: /docs/styleguide/backgrounds/
+          - title: Misc
+            url: /docs/styleguide/misc/
+      - column: 1
+        col: 8
+        title: Elements
+        cc: 3
+        submenu:
+          - title: Accordion
+            url: /docs/elements/accordion/
+          - title: Alerts
+            url: /docs/elements/alerts/
+          - title: Animations
+            url: /docs/elements/animations/
+          - title: Avatars
+            url: /docs/elements/avatars/
+          - title: Background
+            url: /docs/elements/background/
+          - title: Badges
+            url: /docs/elements/badges/
+          - title: Buttons
+            url: /docs/elements/buttons/
+          - title: Card
+            url: /docs/elements/card/
+          - title: Carousel
+            url: /docs/elements/carousel/
+          - title: Dividers
+            url: /docs/elements/dividers/
+          - title: Form Elements
+            url: /docs/elements/form-elements/
+          - title: Image Hover
+            url: /docs/elements/image-hover/
+          - title: Image Mask
+            url: /docs/elements/image-mask/
+          - title: Lightbox
+            url: /docs/elements/lightbox/
+          - title: Media Player
+            url: /docs/elements/player/
+          - title: Modal
+            url: /docs/elements/modal/
+          - title: Pagination
+            url: /docs/elements/pagination/
+          - title: Progressbar
+            url: /docs/elements/progressbar/
+          - title: Shadows
+            url: /docs/elements/shadows/
+          - title: Shapes
+            url: /docs/elements/shapes/
+          - title: Tables
+            url: /docs/elements/tables/
+          - title: Tabs
+            url: /docs/elements/tabs/
+          - title: Text Animations
+            url: /docs/elements/text-animations/
+          - title: Text Highlight
+            url: /docs/elements/text-highlight/
+          - title: Tiles
+            url: /docs/elements/tiles/
+          - title: Tooltips & Popovers
+            url: /docs/elements/tooltips-popovers/
+          - title: Typography
+            url: /docs/elements/typography/

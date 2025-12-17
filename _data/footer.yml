@@ -10,11 +10,11 @@ widget_title_class: text-dark  # Class for widget titles
 newsletter: true       # Whether to include newsletter form (only applicable for default style)
 
 # Call to Action Section
-#cta:
-#  enabled: false
-#  title: Join our community by using our services and grow your business.
-#  button_text: Try It For Free
-#  button_url: "#"
+cta:
+  enabled: false
+  title: Ready to transform your home with custom shutters and blinds?
+  button_text: Get a free consultation now!
+  button_url: "#"
  
 # Default Footer (4-column)
 column_2:
@@ -59,7 +59,7 @@ centered:
     primary: sandbox@email.com
     secondary: help@sandbox.com
   cta:
-    enabled: true
+    enabled: false
     title: "Let's Talk"
     text: "Let's make something great together. We are trusted by over 5000+ clients. Join them by using our services and grow your business."
     description: "Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum."
@@ -269,3 +269,5 @@ minimal_alt:
         url: "#"
       - icon: uil uil-youtube
         url: "#"
+
+

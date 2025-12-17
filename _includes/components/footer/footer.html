@@ -43,7 +43,7 @@
   {% if include.cta != nil %}
     {% assign show_cta = include.cta %}
   {% else %}
-    {% assign show_cta = site.data.footer.cta.enabled %}
+    {% assign show_cta = false %}
   {% endif %}
   {% assign cta_data = site.data.footer.cta %}
 {% endif %}

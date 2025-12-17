@@ -24,85 +24,76 @@ hero:
 
 # Contact Card Section
 contact_card:
-  position: "mt-n1"
+  position: "mt-n19"
   contact_info:
     - icon: "location-pin-alt"
       title: "Address"
-      content: "Moonshine St. 14/05 Light City, <br class='d-none d-md-block' />London, United Kingdom"
+      content: "Servicing all areas of <br class='d-none d-md-block' />Melbourne, Australia"
     - icon: "phone-volume"
       title: "Phone"
-      content: "00 (123) 456 78 90 <br />00 (987) 654 32 10"
+      content: "0418 377 004"
     - icon: "envelope"
       title: "E-mail"
       links:
-        - label: "sandbox@email.com"
-          url: "mailto:sandbox@email.com"
-        - label: "help@sandbox.com"
-          url: "mailto:help@sandbox.com"
+        - label: "mail@leadingedgeblinds.com.au"
+          url: "mailto:mail@leadingedgeblinds.com.au"
 
 # Contact Form Section
-contact_form:
-  title: "Drop Us a Line"
-  subtitle: "Reach out to us from our contact form and we will get back to you shortly."
-  fields:
-    - id: "form_name"
-      name: "name"
-      label: "First Name *"
-      type: "text"
-      placeholder: "Jane"
-      required: true
-      col: "col-md-6"
-    - id: "form_lastname"
-      name: "surname"
-      label: "Last Name *"
-      type: "text"
-      placeholder: "Doe"
-      required: true
-      col: "col-md-6"
-    - id: "form_email"
-      name: "email"
-      label: "Email *"
-      type: "email"
-      placeholder: "jane.doe@example.com"
-      required: true
-      col: "col-md-6"
-    - id: "form-select"
-      name: "department"
-      label: "Select a department"
-      type: "select"
-      required: true
-      col: "col-md-6"
-      options:
-        - label: "Sales"
-          value: "Sales"
-        - label: "Marketing"
-          value: "Marketing"
-        - label: "Customer Support"
-          value: "Customer Support"
-    - id: "form_message"
-      name: "message"
-      label: "Message *"
-      type: "textarea"
-      placeholder: "Your message"
-      required: true
-      col: "col-12"
-      height: "150px"
-  button:
-    label: "Send message"
-    class: "btn btn-primary rounded-pill btn-send mb-3"
-  note: "<strong>*</strong> These fields are required."
+#contact_form:
+#  title: "Drop Us a Line"
+#  subtitle: "Reach out to us from our contact form and we will get back to you shortly."
+#  fields:
+#    - id: "form_name"
+#      name: "name"
+#      label: "First Name *"
+#      type: "text"
+#      placeholder: "Jane"
+#      required: true
+#      col: "col-md-6"
+#    - id: "form_lastname"
+#      name: "surname"
+#      label: "Last Name *"
+#      type: "text"
+#      placeholder: "Doe"
+#      required: true
+#      col: "col-md-6"
+#    - id: "form_email"
+#      name: "email"
+#      label: "Email *"
+#      type: "email"
+#      placeholder: "jane.doe@example.com"
+#      required: true
+#      col: "col-md-6"
+#    - id: "form-select"
+#      name: "department"
+#      label: "Select a department"
+#      type: "select"
+#      required: true
+#      col: "col-md-6"
+#      options:
+#        - label: "Sales"
+#          value: "Sales"
+#        - label: "Marketing"
+#          value: "Marketing"
+#        - label: "Customer Support"
+#          value: "Customer Support"
+#    - id: "form_message"
+#      name: "message"
+#      label: "Message *"
+#      type: "textarea"
+#      placeholder: "Your message"
+#      required: true
+#      col: "col-12"
+#      height: "150px"
+#  button:
+#    label: "Send message"
+#    class: "btn btn-primary rounded-pill btn-send mb-3"
+#  note: "<strong>*</strong> These fields are required."
 
 # Clients Section
 clients:
-  bg_image: /assets/img/map.webp
-  title: "We are trusted by over 5000+ clients. Join them now and grow your business."
-  stats:
-    - count: 7518
-      label: "Completed Projects"
-    - count: 5472
-      label: "Satisfied Customers"
-    - count: 2184
-      label: "Expert Employees"
+#  bg_image: /assets/img/map.webp
+  title: "Ready to transform your home with premium shutters and blinds? Experience the quality trusted by Melbourne families for over 30 years."
 ---
 <div class="content-wrapper">
 <header class="wrapper bg-soft-primary">

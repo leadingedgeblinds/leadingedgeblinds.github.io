@@ -349,6 +349,6 @@ cta:
 {% include components/sections/home/projects-carousel.html %}
 {% include components/sections/home/features-grid.html %}
 {% include components/sections/home/testimonials.html %}
-{% include components/sections/home/cta.html %}
+<!-- {% include components/sections/home/cta.html %} -->
 </div>
 ```
