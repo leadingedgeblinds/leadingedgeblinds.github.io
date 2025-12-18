@@ -206,7 +206,7 @@ faq:
   - title: What areas of Melbourne do you service?
     text: We service most Melbourne suburbs and surrounding areas. Contact us with your postcode to confirm availability.
   - title: What are the payment options?
-    text: We accept major payment methods including credit/debit cards and bank transfer. A deposit is typically required to begin production of custom orders.
+    text: We accept bank transfer. A deposit is typically required to begin production of custom orders.
   - title: Do your products come with a warranty?
     text: Yes. All our products include manufacturer and installation warranties. Warranty length varies by product type, and we will outline all details during your consultation.
   - title: Can I get help choosing the right product for my home?
